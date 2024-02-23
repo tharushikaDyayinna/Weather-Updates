@@ -1,0 +1,61 @@
+/* Add this to your App.css file */
+body {
+  background-color: #f0f0f0;
+  font-family:Serif , Serif;
+  text-align: center;
+  margin: 5;
+  padding: 5;
+  transition: background-color 0.5s ease; /* Add transition for smooth color change */
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url('https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/technology/apps/shutterstock_240459751.jpg') no-repeat center center fixed; /* Add your live photo URL */
+  background-size: cover; 
+
+}
+
+.App-header {
+  background-color: #5c677e;
+  color: rgb(108, 101, 101);
+  padding: 50px; /* Increase padding for header */
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.9);
+  
+}
+
+input {
+  padding: 20px; /* Increase input padding */
+  margin-right: 20px; /* Increase margin */
+  border: 2px solid #ccc;
+  border-radius: 12px; /* Increase border radius */
+  font-size: 30px; /* Increase font size */
+  font-family:Serif;
+}
+
+button {
+  padding: 15px 30px; 
+  background-color: #61dafb;
+  color: rgb(100, 93, 93);
+  border: none;
+  border-radius: 8px;
+  font-size: 20px; 
+  cursor: pointer;
+  font-family:Serif;
+}
+
+button:hover {
+  background-color: #4fa3d1;
+}
+
+p {
+  margin: 30px 0; /* Increase margin */
+  font-size: 48px; /* Increase font size */
+}
+
+/* Add more specific styling for your content as needed */
