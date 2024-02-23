@@ -17,6 +17,7 @@ Follow these simple steps to run the Weather Update React App on your local mach
 3.Start the development server with npm start.
 
 ## Preview
+![wu](https://user-images.githubusercontent.com/102175958/721011b7-2390-4b77-9f15-33e4da90424f)
 
 
 
