@@ -10,7 +10,7 @@ Responsive design for seamless use on various devices
 
 ![wu](https://github.com/tharushikaDyayinna/Weather-Updates/assets/102175958/a460b21a-f522-4aaf-bc40-47452bd2d1f9)
 
-
+![wu](https://github.com/tharushikaDyayinna/Weather-Updates/assets/102175958/375265b1-c7c2-4ecf-b34c-5aac38d88ebb)
 
 
 Create a .gitignore file:
