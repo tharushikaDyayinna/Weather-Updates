@@ -8,6 +8,10 @@ Location-based weather information
 Intuitive user interface
 Responsive design for seamless use on various devices
 
+![wu](https://github.com/tharushikaDyayinna/Weather-Updates/assets/102175958/a460b21a-f522-4aaf-bc40-47452bd2d1f9)
+
+
+
 
 Create a .gitignore file:
 Make sure you have a .gitignore file in your project directory.
